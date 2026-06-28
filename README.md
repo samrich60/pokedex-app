@@ -95,9 +95,9 @@ Escaneie o QR Code com o **Expo Go** no celular ou pressione `a` para Android / 
 
 ## 👥 Dupla
 
-- [Nome do integrante 1]
-- [Nome do integrante 2]
+- [Sammy Richard Alves Ferreira Mendes de Sousa]
+- [João Victor ded Castro Souza]
 
 ---
 
-*Disciplina: Programação de Banco de Dados SQL — Prof. Karython Gomes — UNIDESC*
+*Disciplina: Programação Aplicativos Moveis — Prof. Karython Gomes — UNIDESC*
